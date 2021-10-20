@@ -1,0 +1,12 @@
+1.Wattsapp Creation
+2.Message
+3.picture
+4.video sharing
+5.Emoj
+6.Stickers
+7.Location
+8.Current Location
+9.Video call
+10.Audio call
+
+
