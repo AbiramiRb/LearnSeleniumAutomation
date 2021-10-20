@@ -8,5 +8,5 @@
 8.Current Location
 9.Video call
 10.Audio call
-
+11.Status update
 
